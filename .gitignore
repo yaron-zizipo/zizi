@@ -19,3 +19,11 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+
+server/node_modules
+server/mysql
+server/images
+server/docker-compose.yml
+server/Dockerfile
+server/helper.txt
+server/requests.rest
